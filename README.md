@@ -7,7 +7,7 @@
  <b><a href="https://telegram.dog/Anonforwabot">@AnonForwaBot</a></b>
 
 <h3>Very Easy Way(No Coding)</h3>
-<a href="https://heroku.com/deploy?template=https://github.com/Artis7eeR/forward-Tag-Remover-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/venky619/ForwarTag-remover">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
